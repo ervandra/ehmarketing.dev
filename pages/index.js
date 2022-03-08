@@ -13,7 +13,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <div className="h-screen flex flex-col items-center justify-center bg-[]">
+      <div className="h-screen flex flex-col items-center justify-center">
         <div className="home">
           <div className="container md:max-w-3xl mx-auto text-center">
             <Image
